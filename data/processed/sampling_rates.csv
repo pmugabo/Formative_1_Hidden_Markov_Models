@@ -1,0 +1,17 @@
+split,activity,sensor,sampling_rate_hz
+raw,standing,Accelerometer,99.78075517661344
+raw,standing,Gyroscope,99.78075517661344
+raw,walking,Accelerometer,99.78075517661566
+raw,walking,Gyroscope,99.78075517661566
+raw,jumping,Accelerometer,99.780755176614
+raw,jumping,Gyroscope,99.780755176614
+raw,still,Accelerometer,99.78075517661344
+raw,still,Gyroscope,99.78075517661344
+unseen,standing,Accelerometer,99.78075517661344
+unseen,standing,Gyroscope,99.78075517661344
+unseen,walking,Accelerometer,99.78075517661566
+unseen,walking,Gyroscope,99.78075517661566
+unseen,jumping,Accelerometer,99.780755176614
+unseen,jumping,Gyroscope,99.780755176614
+unseen,still,Accelerometer,99.78075517661344
+unseen,still,Gyroscope,99.78075517661344
